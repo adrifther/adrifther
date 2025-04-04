@@ -10,7 +10,7 @@
 - ⚡ Fun fact: while not coding or learning new technologies, I am mostly code dreaming 👨‍💻
 - 📫 How to reach me: adrianferrert@gmail.com
 - 📞📲🇪🇸(+34)669808666 
-- Linkedin:[www.linkedin.com/in/adrian-ferrer-torres](url)
+- Linkedin: [www.linkedin.com/in/adrian-ferrer-torres](url)
 
 
 
