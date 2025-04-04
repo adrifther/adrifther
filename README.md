@@ -3,7 +3,7 @@
 #### Full Stack Web developer 
 - 📍 I'm living in Barcelona, Spain 🇪🇸 🥘
 - 🔭 I’m currently working on Web application projects
-- 🌱 I’m currently learning Full Stack Development technologies
+- 🌱 I’m currently learning new Full Stack Development technologies
 - 👯 I’m looking to collaborate on amazing projects
 - 🤔 I’m looking for help with getting new coding challenges
 - 💬 Ask me about anything you want!
